@@ -1,0 +1,4 @@
+individual_new.csv
+*.csv
+.ipynb_checkpoints/
+.DS_Store
